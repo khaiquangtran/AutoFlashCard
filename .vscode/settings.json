@@ -56,6 +56,8 @@
         "typeinfo": "cpp",
         "codecvt": "cpp",
         "bitset": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "cfenv": "cpp",
+        "typeindex": "cpp"
     }
 }
